@@ -10,6 +10,7 @@
     "build:web": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "preview:web": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
